@@ -7,7 +7,7 @@ from django.db.utils import IntegrityError
 from .models import Chat
 from django.utils import timezone
 
-openai_api_key = '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'
+openai_api_key = 'your_openai_api_key'
 openai.api_key = openai_api_key
 
 # create openai interaction function
