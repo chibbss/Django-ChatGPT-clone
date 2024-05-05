@@ -1,4 +1,4 @@
-# Django ChatGPT - Your Personal Fitness and Nutrition Coach
+# Django ChatGPT clone
 Note: Remember to check your [OpenAI billing quota](https://openai.com/billing) before making API requests.
  
 
@@ -17,16 +17,7 @@ Note: Remember to check your [OpenAI billing quota](https://openai.com/billing) 
 
 Django ChatGPT is a web application that serves as your personal fitness and nutrition coach. It leverages OpenAI's powerful GPT models to provide personalized advice and guidance.
 
-## Features
 
-- Personalized fitness and nutrition coaching.
-- Seamless integration with Django's authentication system for user management and security.
-- Utilizes OpenAI's powerful GPT models.
-- User-friendly chat interface.
-- robust openai error handling.
-
-
-## Technologies
 
 - Django
 - OpenAI API
